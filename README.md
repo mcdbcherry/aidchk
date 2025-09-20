@@ -29,6 +29,8 @@ https://mcdb.jp/aidchk.html
 
 ■利便性：チェック結果はプラウザで表示
 <img width="939" height="919" alt="image" src="https://github.com/user-attachments/assets/a44ba5ad-f966-4b36-9862-18e44e0405a9" />
+チェック結果はファイルに保存可能です。
+
 
 ※現在のバージョンはベータ版です。機能は予告なく停止する場合があります。AIの制限により、一定時間・一日での使用回数の制限や、他ユーザーのAI使用によりサービスが混雑している場合、一時的に使用できない場合があります。
 

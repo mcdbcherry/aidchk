@@ -29,6 +29,7 @@ https://mcdb.jp/aidchk.html
 
 ■利便性：チェック結果はプラウザで表示
 <img width="939" height="919" alt="image" src="https://github.com/user-attachments/assets/a44ba5ad-f966-4b36-9862-18e44e0405a9" />
+
 チェック結果はファイルに保存可能です。
 
 

@@ -3,6 +3,8 @@
 AIが文章チェックを自動化
 ビジネス文書の品質を手軽に向上
 クリップボードにコピーするだけで、AIが文章や構成を瞬時にチェック。ビジネスメールやレポートの品質を簡単に高め、より正確でプロフェッショナルなコミュニケーションを実現します。
+
+紹介ページ：
 https://mcdb.jp/aidchk.html
 
 <img width="940" height="208" alt="image" src="https://github.com/user-attachments/assets/dd50fa37-c57c-4869-8a63-c9a5273ef085" />
